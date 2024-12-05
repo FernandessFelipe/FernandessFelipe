@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, me chamo Felipe Fernandes
+- Buscando novas oportunidades de Desenvolvedor de Software, Analista de Sistemas e Gestor de Projetos
+- Tecnologias: HTML | JS | MySQl | C | PHP | C# | Bootstrap 
 
 <!--
 **FernandessFelipe/FernandessFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
